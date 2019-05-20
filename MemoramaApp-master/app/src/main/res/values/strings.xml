@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemoITC</string>
+    <string name="act_memorama">Memorama</string>
+    <string name="str_desarrollador">Alumno x</string>
+    <string name="acercade">Acerca de</string>
+    <string name="juegonuevo">Juego Nuevo</string>
+</resources>
